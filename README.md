@@ -8,7 +8,11 @@ React Native，使用跨平台expo模擬器撰寫計數器 app 程式。
   - 切換頁面 `ChangePage`
 
 ## 專案渲染
+- PageA:
+![image](https://github.com/tangcamy/ButtonsPage_ReactNative/main/src/demo/PageA_加.png)
 
+- PageB:
+![image](https://github.com/tangcamy/ButtonsPage_ReactNative/main/src/demo/PageB.png)
 
 ## Environment SetUp - 環境建置
   - nvm 安裝 Node.js (14.16.0) - mac 
@@ -24,7 +28,7 @@ React Native，使用跨平台expo模擬器撰寫計數器 app 程式。
 1. 打開你的 terminal，Clone 此專案至本機電腦
 
 ```
-git clone 
+git clone https://github.com/tangcamy/ButtonsPage_ReactNative.git
 ```
 
 2. 開啟終端機(Terminal)，進入存放此專案的資料夾
@@ -47,5 +51,4 @@ npx expo start
 
 
 ## Contributor - 專案開發人員
-
 > [tangcamy](https://github.com/tangcamy)
