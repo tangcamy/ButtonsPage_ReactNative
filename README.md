@@ -9,7 +9,7 @@ React Native，使用跨平台expo模擬器撰寫計數器 app 程式。
   - 切換頁面 `ChangePage`
 
 ## 專案渲染
-view渲染:<ModeView/>
+view渲染: `<ModeView/>`
 
 - PageA:
 <img src="https://github.com/tangcamy/ButtonsPage_ReactNative/blob/main/src/demo/PageA_加.png" alt="PageB" width="200" height="300" />
