@@ -9,10 +9,10 @@ React Native，使用跨平台expo模擬器撰寫計數器 app 程式。
 
 ## 專案渲染
 - PageA:
-![image](https://github.com/tangcamy/ButtonsPage_ReactNative/main/src/demo/PageA_加.png)
+![image](https://github.com/tangcamy/ButtonsPage_ReactNative/blob/main/src/demo/PageA_加.png)
 
 - PageB:
-![image](https://github.com/tangcamy/ButtonsPage_ReactNative/main/src/demo/PageB.png)
+![image](https://github.com/tangcamy/ButtonsPage_ReactNative/blob/main/src/demo/PageB.png)
 
 ## Environment SetUp - 環境建置
   - nvm 安裝 Node.js (14.16.0) - mac 
