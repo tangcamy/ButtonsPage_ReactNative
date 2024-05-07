@@ -8,7 +8,7 @@ export default function App() {
 
   //功能：減10
   function minusTen(){
-    value = validCod - 10 
+    value = validCod -10
     return setValidCode(value)
   }
 
