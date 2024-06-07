@@ -17,7 +17,8 @@ view渲染: `<ModeView/>`
 <img src="https://github.com/tangcamy/ButtonsPage_ReactNative/blob/main/src/demo/PageB.png" alt="PageB" width="200" height="350" />
 
 ## Environment SetUp - 環境建置
-  - nvm 安裝 Node.js (14.16.0) - mac 
+  - nvm 安裝 Node.js (20.11.1) - mac 
+    - 確認版本`nvm ls`，指定版本`nvm use v20.11.1`
   - "expo": "~50.0.14",
   - "react": "18.2.0",
   - "react-native": "0.73.6",
